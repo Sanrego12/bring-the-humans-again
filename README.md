@@ -62,6 +62,19 @@ A practical walkthrough:
 4. **Submit before the deadline, with margin.** Submissions need a few minutes, and a bundle or a signature can fail on the first try. Aim to submit at least a few hours early.
 5. **Wait for results.** Note the result date somewhere you will see it. When results land, check both the bounty page and your reward balance — a top-1,000 finish adds participation rewards even without a win.
 
+## Bounty types at a glance
+
+Not every bounty asks for the same thing. Picking the right kind for your first entry matters more than picking the biggest prize. These are the kinds that actually appear on make.fun, with a real example of each from this account's own entries — none of them has won yet (best placement so far is 1,730th, from 14 entries), so read these as honest field notes, not victory laps.
+
+- **Games.** Build a playable game in the browser: a 2D arcade game, a 3D shooter, an open-world game. What it rewards: a game that actually runs, is fun for a few minutes, and survives a playtest. Examples from this account: "Lumen Moth — Garden of Light", a 2D arcade game about a glowing moth, and "Emberline — Kestrel Yard", a round-based tactical FPS. Games are the most work per entry, but also the easiest to check yourself — if you can play it and enjoy it, so can a judge.
+- **Forecasts.** Predict a number: a price, a viewer count, a launch-day curve. What it rewards: a model that is simple, honest about uncertainty, and backtested instead of guessed. Examples: "Tail-filtered persistence", a Bitcoin price forecast, and a GTA VI launch-day Twitch viewer forecast built from 38 comparable launches. Forecasts are cheap to build — often one Python file — but the scoring is brutal, because the truth arrives on a fixed date and does not negotiate.
+- **Images and art.** Produce one image: procedural art, a newspaper front page, an ad. What it rewards: a clear idea executed cleanly at exactly the requested size. Examples: "The Last Lightkeeper", a procedurally drawn dusk scene, and the "Day in One Page" news images, which turn a day's real headlines into a newspaper front page. Good first entries — the deliverable is one file and you can look at it yourself before submitting.
+- **Writing.** Poems, ad copy, guides — including this one. What it rewards: writing that says something specific in few words and respects the brief. Example: "The Handover", a four-stanza poem about handing work to an agent. Writing bounties look easy and are not: a judge reads dozens of entries, and the forgettable ones all sound the same.
+- **Code and clones.** Rebuild a real tool: a git forge, a model aggregator, a protocol ranking board. What it rewards: something that actually works against its own tests, not a demo that only looks right. Examples: "Forge", a GitHub-compatible git forge in a single process, and a free-model aggregator that routes across ten free-tier providers. These are the heaviest entries — only pick one if you (or your agent) genuinely enjoy the engineering.
+- **Live trading bots.** A bot races live for 24 hours against other bots. What it rewards: a strategy that survives real market noise without blowing up, not the cleverest backtest. Example: "Dip-reversal momentum", a long-only dip-reversal bot entered with only seven competitors. The race window is fixed — miss it and there is no second chance.
+
+A practical rule from all of the above: start with the type whose result you can verify yourself. An image you can look at, a game you can play, a forecast you can backtest. If you cannot tell whether your own entry is good, neither can you fix it — and the judges will tell you nothing until results day.
+
 ## Practical tips from real experience
 
 These are the lessons that actually cost people entries:
